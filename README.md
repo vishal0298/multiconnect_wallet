@@ -17,16 +17,12 @@ A simple multi connect wallet built with Vite and React. This project uses [wagm
 
 3. **Running the App**
 
-    Start the development server
+    To Start the development server or Build and Preview the app
      ```bash
     npm run dev
 
-    Build the app
-     ```bash
     npm run build
 
-    Preview the production
-     ```bash
     npm run preview
     
         
